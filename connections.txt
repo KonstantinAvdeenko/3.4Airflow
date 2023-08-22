@@ -1,0 +1,17 @@
+Connections:
+
+(
+
+Conn id: my_db_conn
+
+Conn type: postgres
+
+Host: host.docker.internal
+
+Schema: test
+
+Login/pass: postgres/password
+
+Port: 5430
+
+)
